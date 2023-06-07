@@ -1,0 +1,8 @@
+Host name malloy2.princeton.edu
+Test batch size: 200
+Chunk size: 10
+Number of workers: 10
+Time elapsed: 9 secs
+Expected download time for 15m scans: 638585 secs
+                                     (177 hours)
+Files downloaded: 200
