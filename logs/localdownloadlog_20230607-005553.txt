@@ -1,0 +1,8 @@
+Host name dynamic-oit-vapornet100-10-8-105-179.princeton.edu
+Test batch size: 200
+Chunk size: 10
+Number of workers: 10
+Time elapsed: 26 secs
+Expected download time for 15m scans: 1948418 secs
+                                     (541 hours)
+Files downloaded: 200

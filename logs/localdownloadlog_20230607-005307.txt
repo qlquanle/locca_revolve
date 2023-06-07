@@ -1,0 +1,4 @@
+Host name dynamic-oit-vapornet100-10-8-105-179.princeton.edu
+Test batch size: 200
+Chunk size: 10
+Number of workers: 10
