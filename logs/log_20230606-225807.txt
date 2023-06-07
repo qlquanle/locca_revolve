@@ -1,0 +1,8 @@
+Host name pol-pq5-adapter.politics.fas.nyu.edu
+Test batch size: 200
+Chunk size: 10
+Number of workers: 10
+Time elapsed: 78 secs
+Expected download time for 15m scans: 5833132 secs
+                                     (1620 hours)
+Files downloaded: 200
